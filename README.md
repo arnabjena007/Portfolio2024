@@ -42,27 +42,33 @@ Replace `<your_user_name>` with your GitHub username.
 
 Navigate to the project directory 📁, add a reference(remote) to the original repository, and check the remotes for this repository:
 
+```shell
+cd portfolio2024 &&
+git remote add upstream https://github.com/portfolio2024/portfolio2024.github.io.git &&
+git remote -v
+```
 Keeping Your Local Copy Updated
 Always fetch changes from the upstream repository to keep your local copy updated and merge the changes from the upstream repository to your main branch:
 
-shell
-Copy code
+```shell
 git fetch upstream &&
 git merge upstream/main
+```
 Working on a New Feature
 Create a new branch for your work 🌿, make necessary changes, and commit those changes:
 
-shell
-Copy code
+```shell
 git checkout -b your_branch_name &&
 git add . &&
 git commit -m "Your commit message"
+```
+
 Pushing Changes and Creating a Pull Request
 Push the committed changes to your feature branch on your remote repository:
 
-shell
-Copy code
+```shell
 git push -u origin your_branch_name
+```
 After pushing your changes, create a pull request:
 
 Go to the GitHub page of your forked repository.
@@ -72,7 +78,15 @@ Add an appropriate title and description to your pull request explaining your ch
 Click on "Create Pull Request".
 Congratulations! You've created a pull request 🎉. Be patient while we review your code and merge the changes.
 
-```shell
-cd portfolio2024 &&
-git remote add upstream https://github.com/portfolio2024/portfolio2024.github.io.git &&
-git remote -v
+#Roadmap
+See the open issues for a list of proposed features and known issues.
+
+#License
+This project is licensed under the MIT License.
+
+#Contact
+If you have any questions or concerns, feel free to email us at APEX@COMMUNITY.ac.in 📧.
+
+<p align="center">Made with ❤️ | Hosted on <a href="https://portfolio2024-bay.vercel.app/">Vercel</a></p>
+
+
