@@ -29,25 +29,6 @@
 - Easy to customize
 - Lightweight and fast
 
-## Table of Contents
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-        <li><a href="#file-structure">File Structure</a></li>
-        <li><a href="#before-you-start"> Before You Start</a></li>
-      </ul>
-    </li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
 <!-- ABOUT THE PROJECT -->
 
 ## Built With
@@ -58,3 +39,16 @@ The tech stack we will be using:
 - CSS
 - JavaScript
 - Bootstrap
+
+# Contributing to Portfolio2024
+
+Replace `<your_user_name>` with your GitHub username.
+
+## Navigation and Setup
+
+Navigate to the project directory 📁, add a reference(remote) to the original repository, and check the remotes for this repository:
+
+```shell
+cd portfolio2024 &&
+git remote add upstream https://github.com/portfolio2024/portfolio2024.github.io.git &&
+git remote -v
