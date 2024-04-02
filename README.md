@@ -43,23 +43,23 @@ Replace `<your_user_name>` with your GitHub username.
 Navigate to the project directory 📁, add a reference(remote) to the original repository, and check the remotes for this repository:
 
 ```shell
-cd portfolio2024 &&
-git remote add upstream https://github.com/portfolio2024/portfolio2024.github.io.git &&
+cd portfolio2024 
+git remote add upstream https://github.com/portfolio2024/portfolio2024.github.io.git 
 git remote -v
 ```
 Keeping Your Local Copy Updated
 Always fetch changes from the upstream repository to keep your local copy updated and merge the changes from the upstream repository to your main branch:
 
 ```shell
-git fetch upstream &&
+git fetch upstream 
 git merge upstream/main
 ```
 Working on a New Feature
 Create a new branch for your work 🌿, make necessary changes, and commit those changes:
 
 ```shell
-git checkout -b your_branch_name &&
-git add . &&
+git checkout -b your_branch_name 
+git add 
 git commit -m "Your commit message"
 ```
 
