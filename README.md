@@ -1,10 +1,4 @@
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://portfolio2024-bay.vercel.app/">
-    <img src="./assets/logo.svg" alt="Logo" width="400" height="250">
-  </a>
-  <h1 align="center">Portfolio Website</h1>
+<h1 align="center">Portfolio Website</h1>
 </p>
 
 ## Portfolio Website 🔗
@@ -47,6 +41,36 @@ Replace `<your_user_name>` with your GitHub username.
 ## Navigation and Setup
 
 Navigate to the project directory 📁, add a reference(remote) to the original repository, and check the remotes for this repository:
+
+Keeping Your Local Copy Updated
+Always fetch changes from the upstream repository to keep your local copy updated and merge the changes from the upstream repository to your main branch:
+
+shell
+Copy code
+git fetch upstream &&
+git merge upstream/main
+Working on a New Feature
+Create a new branch for your work 🌿, make necessary changes, and commit those changes:
+
+shell
+Copy code
+git checkout -b your_branch_name &&
+git add . &&
+git commit -m "Your commit message"
+Pushing Changes and Creating a Pull Request
+Push the committed changes to your feature branch on your remote repository:
+
+shell
+Copy code
+git push -u origin your_branch_name
+After pushing your changes, create a pull request:
+
+Go to the GitHub page of your forked repository.
+Click on the "New pull request" button.
+Select the base branch and your feature branch for the pull request.
+Add an appropriate title and description to your pull request explaining your changes and efforts.
+Click on "Create Pull Request".
+Congratulations! You've created a pull request 🎉. Be patient while we review your code and merge the changes.
 
 ```shell
 cd portfolio2024 &&
