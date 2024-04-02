@@ -1,54 +1,60 @@
-<div align="center">
-  
-![GitHub repo size](https://img.shields.io/github/repo-size/sadhin555/vCard-Personal-Portfolio)
-![GitHub stars](https://img.shields.io/github/stars/sadhin555/vCard-Personal-Portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/sadhin555/vCard-Personal-Portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/sadhin555_?style=social)](https://twitter.com/intent/follow?screen_name=sadhin555_)
-
+<!-- PROJECT LOGO -->
 <br />
-<br/>
+<p align="center">
+  <a href="https://portfolio2024-bay.vercel.app/">
+    <img src="./assets/logo.svg" alt="Logo" width="400" height="250">
+  </a>
+  <h1 align="center">Portfolio Website</h1>
+</p>
 
-<h2 align="center">vCard - Personal Portfolio Website</h2>
+## Portfolio Website 🔗
+[**Visit Now**](https://portfolio2024-bay.vercel.app/)
 
-vCard is a fully responsive Personal Portfolio Website, Responsive for all devices, built using HTML, CSS, and JavaScript.
+## 🛠️ Tech Stack
+[![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/arnabjena007/Portfolio-Website/search?l=html)&nbsp;
+[![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/arnabjena007/Portfolio-Website/search?l=css)&nbsp;
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/arnabjena007/Portfolio-Website/search?l=javascript)&nbsp;
+[![Vercel](https://img.shields.io/badge/Vercel-%23FF0000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
-<a href="https://sadhin555.github.io/vCard-Personal-Portfolio/"><strong>➥ Live Demo</strong></a>
+## 🖼️ Sneak Peek of Pages
+<img src="./assets/1.png">
+<img src="./assets/2.png">
 
-</div>
+## 📬 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/arnabjena/)
 
-<br />
+## Features
+- Clean and minimal design
+- Responsive layout
+- Easy to customize
+- Lightweight and fast
 
-## Demo Screeshots
+## Table of Contents
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#file-structure">File Structure</a></li>
+        <li><a href="#before-you-start"> Before You Start</a></li>
+      </ul>
+    </li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+<!-- ABOUT THE PROJECT -->
 
-## Prerequisites
+## Built With
 
-Before you begin, ensure you have met the following requirements:
+The tech stack we will be using:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-## Installing vCard
-
-To install **vCard**, follow these steps:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/sadhin555/vCard-Personal-Portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/sadhin555/vCard-Personal-Portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/sadhin555).
-
-## License
-
-MIT
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
