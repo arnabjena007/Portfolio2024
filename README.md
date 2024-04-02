@@ -78,13 +78,13 @@ After pushing your changes, create a pull request:
 - Click on "Create Pull Request".
 - Congratulations! You've created a pull request 🎉. Be patient while we review your code and merge the changes.
 
-#Roadmap
+##Roadmap
 See the open issues for a list of proposed features and known issues.
 
-#License
+##License
 This project is licensed under the MIT License.
 
-#Contact
+##Contact
 If you have any questions or concerns, feel free to email us at APEX@COMMUNITY.ac.in 📧.
 
 <p align="center">Made with ❤️ | Hosted on <a href="https://portfolio2024-bay.vercel.app/">Vercel</a></p>
