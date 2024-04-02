@@ -71,12 +71,12 @@ git push -u origin your_branch_name
 ```
 After pushing your changes, create a pull request:
 
-Go to the GitHub page of your forked repository.
-Click on the "New pull request" button.
-Select the base branch and your feature branch for the pull request.
-Add an appropriate title and description to your pull request explaining your changes and efforts.
-Click on "Create Pull Request".
-Congratulations! You've created a pull request 🎉. Be patient while we review your code and merge the changes.
+- Go to the GitHub page of your forked repository.
+- Click on the "New pull request" button.
+- Select the base branch and your feature branch for the pull request.
+- Add an appropriate title and description to your pull request explaining your changes and efforts.
+- Click on "Create Pull Request".
+- Congratulations! You've created a pull request 🎉. Be patient while we review your code and merge the changes.
 
 #Roadmap
 See the open issues for a list of proposed features and known issues.
